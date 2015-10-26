@@ -6,23 +6,9 @@
   # 如果 watchList 列表为空或者不存在则从 symbols 列表中获取 hold 为 true 的股票
   watchList:
     -
-      name :  '安信信托'
-      code :  '600816'
-    -
-      name :  '中航飞机'
-      code :  '000768'
-    -
-      name :  '华胜天成'
-      code :  '600410'
-    -
-      name :  '中国卫星'
-      code :  '600118'
-    -
-      name :  '中航动力'
-      code :  '600893'
-    -
-      name :  '锦龙股份'
-      code :  '000712'
+      name :  'xxxx'
+      code :  '300208'
+
 
   symbols:
     -
